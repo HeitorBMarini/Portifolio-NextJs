@@ -5,4 +5,4 @@
 ## Deploy on Vercel
 
 
-Check the project [Next.js deployment documentation](https://portifolio-next-js-delta.vercel.app/) for more details.
+Check the project [Click here](https://portifolio-next-js-delta.vercel.app/) for more details.
